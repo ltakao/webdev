@@ -1,0 +1,164 @@
+body { font-family: Arial, helvetica, Sans-Serif; }	
+
+#page {
+	width: 995px;
+	text-align: left;
+	margin: 0 auto 20px auto;
+	position: relative;
+}
+
+#menu-top-horizontal {
+	height: 40px;	
+}
+
+#menu-top-car {	
+	height: 70px;	
+}
+
+#menu-top {
+	font-size: 11px; 		
+}
+
+.menu-link  {
+	color: #212721;	
+}
+	
+.menu-link-car {
+	background-color: #f4f4f4;
+	color: #212721;		
+	font-size: 16px;
+}
+
+#menu-lateral {
+	float: left;
+}
+
+.titulo-carro {
+	background-color: #cdcdcd;
+	color: #585858;	
+	font-size: 18px;
+	font-weight: bold;	
+	padding: 3px 20px;	
+}
+
+.new {
+	display: block;
+	font-size: 9px;
+	margin-bottom: -3px;	
+	margin-top: -1px;
+}
+
+.nome {
+	display: block;
+	font-size: 18px;	
+}
+
+.centraliza {
+	display:block;	
+	margin:0 auto; 
+	text-align:center; 
+}
+
+#myCarousel {		
+	position: relative;
+	width: 75%;
+}
+
+#myCarousel-car {	
+	float: left;		
+	position: relative;
+	width: 50%;	
+	left: 50px;
+}
+
+#footer-sitemap {	
+	background-color: #f4f4f4;	
+	border-color: #dcdcdc;
+	border-style: solid none;
+	border-width: 1px;	
+	color: #212721;
+	display: block;	
+	font-size: 12px;	
+	overflow: hidden;
+	padding: 35px 30px 0;
+	text-align: center;		
+}
+	#footer-sitemap a {
+		color: #212721;
+		cursor: pointer;	
+		display: block;	
+		margin: 0 0 10px 0;	
+		text-decoration: none;	
+	}	
+
+h4 {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+	padding: 0;	
+}
+
+.footer-inner {
+	color: #212721;	
+	display: block;	
+	float: left;
+	font-size: 12px;
+	overflow: hidden;
+	padding: 0 0 65px;		
+	text-align: center;	
+}
+
+.section {
+	color: #212721;
+	display: block;	
+	float: left;
+	font-size: 12px;		
+	margin-right: 5px;
+	overflow: hidden;	
+	text-align: left;
+	width: 145px;	
+}
+
+.section-footer {
+	color: #212721;
+	display: block;	
+	float: left;
+	font-size: 12px;			
+	margin-right: 5px;
+	overflow: hidden;	
+	text-align: left;
+	width: auto;
+}
+
+#footer {		
+	background-color: #F4F4F4;
+	padding: 20px 30px 30px 30px;
+}
+
+#callouts {
+	height: 102px;		
+	padding: 15px 0px;	
+}
+
+.callouts-text {
+	color: #3a3a3a;
+	font-size: 12px;	
+}
+
+.nav-pills > li.active > a {
+	background-color: #ececec;
+	color: #2a2a2a;
+	font-size: 13px;	
+}
+
+.nav-pills > li > a {
+	color: #2a2a2a;
+	font-size: 13px;
+	padding: 5px 15px;	
+}
+
+.espaco60 { width: 60px; }
+.espaco80 { width: 80px; }
+.espaco100 { width: 100px; }
+.espaco120 { width: 120px; }
+.espaco180 { width: 180px; }
